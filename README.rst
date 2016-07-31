@@ -1,6 +1,9 @@
 .. image:: https://travis-ci.org/sbuss/pydockerfile.svg?branch=master
     :target: https://travis-ci.org/sbuss/pydockerfile
 
+.. image:: https://codecov.io/github/sbuss/pydockerfile/coverage.svg?branch=master
+    :target: https://codecov.io/github/sbuss/pydockerfile?branch=master
+
 pydockerfile
 ============
 
